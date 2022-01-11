@@ -2,7 +2,7 @@
 <a href="https://tracking.gitads.io/?repo=Coursera-Machine-Learning-Stanford"><img src="https://images.gitads.io/Coursera-Machine-Learning-Stanford" alt="GitAds"/></a> -->
 
 # Natural Language Processing with Classification and Vector Spaces (Coursera)
-* my solution to all the programming assignments of Natural Language Processing with Classification and Vector Spaces in Python.
+* My solution to all the programming assignments of Natural Language Processing with Classification and Vector Spaces in Python.
 
 # About this Course
 * In Course 1 of the Natural Language Processing Specialization, you will:   
