@@ -20,4 +20,4 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 * [Verified Certificate](https://coursera.org/share/9a6f13d3d2df4f0705b0a68d86410cee)
 
 ## References
-[[1] Natural Language Processing with Classification and Vector Spaces - University of Michigan](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome)
+[[1] Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome)
