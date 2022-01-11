@@ -4,7 +4,7 @@
 # Natural Language Processing with Classification and Vector Spaces (Coursera)
 * my solution to all the programming assignments of Natural Language Processing with Classification and Vector Spaces in Python.
 
-#About this Course
+# About this Course
 * In Course 1 of the Natural Language Processing Specialization, you will:   
 
 a) Perform sentiment analysis of tweets using logistic regression and then naïve Bayes,
